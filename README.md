@@ -4,7 +4,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/5sb7n8a09w9clute/branch/dev?svg=true)](https://ci.appveyor.com/project/RogueException/discord-net/branch/dev)
 [![Discord](https://discordapp.com/api/guilds/81384788765712384/widget.png)](https://discord.gg/0SBTUU1wZTVjAMPx)
 
-An unofficial .NET API Wrapper for the Discord client (http://discordapp.com).
+An unofficial .NET API Wrapper for the Discord Client (http://discordapp.com).
 
 Check out the [documentation](https://discord.foxbot.me/docs/) or join the [Discord API Chat](https://discord.gg/0SBTUU1wZTVjAMPx).
 
@@ -42,4 +42,4 @@ The .NET Core workload must be selected during Visual Studio installation.
 
 ### WebSockets (Win7 and earlier)
 .NET Core 1.1 does not support WebSockets on Win7 and earlier. It's recommended to use the Discord.Net.Providers.WS4Net package until this is resolved.
-Track the issue [here](https://github.com/dotnet/corefx/issues/9503).
+Track this issue [here](https://github.com/dotnet/corefx/issues/9503).
